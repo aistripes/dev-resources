@@ -38,7 +38,7 @@ export const resources: Resource[] = [
     {
         name: 'Hackr.io',
         description:
-            'Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses &amp; tutorials recommended by the Programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.',
+            'Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one. Find the best online courses & tutorials recommended by the Programming community. Pick the most upvoted tutorials as per your learning style: video-based, book, free, paid, for beginners, advanced, etc.',
         categories: ['Learn', 'Programming'],
         url: 'https://hackr.io/',
     },
@@ -332,6 +332,14 @@ export const resources: Resource[] = [
         categories: ['AI', 'Productivity', 'Writing'],
         url: 'https://humanizeaitext.ai/',
         keywords: ['ai', 'writing', 'human', 'text'],
+    },
+    {
+        name: 'hype or code',
+        description:
+            'Free gallery that gives every new OpenRouter model the same six prompts, one shot each, and shows the outputs side by side with time and cost.',
+        categories: ['AI', 'Inspiration'],
+        url: 'https://hypeorcode.com/',
+        keywords: ['ai models', 'llm', 'openrouter', 'model comparison', 'svg', 'landing page', 'breakout'],
     },
     {
         name: 'Hypertune',
